@@ -2,7 +2,7 @@
 <br>
 
 | Tool| link |
-| --- | --- |
+| ------------------------ | - |
 | Change image weight / size | http://www.imageoptimizer.net/Pages/Home.aspx |
 | .apk Java Decompiler for Reverse Engeenering | http://www.javadecompilers.com/ |
 | HTML Color Picker | https://www.w3schools.com/colors/colors_picker.asp |
