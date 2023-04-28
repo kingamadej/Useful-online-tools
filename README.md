@@ -10,6 +10,11 @@
     <td>.apk Java Decompiler for Reverse Engeenering</td>
     <td>http://www.javadecompilers.com/</td>
   </tr>
+    
+  <tr>
+    <td>HTML Color Picker</td>
+    <td>https://www.w3schools.com/colors/colors_picker.asp</td>
+  </tr>
   
   <tr>
     <td>Online Rust compiler</td>
@@ -44,6 +49,11 @@
   <tr>
     <td>Polish Economics information</td>
     <td>https://stooq.pl/</td>
+  </tr>
+    
+  <tr>
+    <td>SQL Injection Payload</td>
+    <td>https://github.com/payloadbox/sql-injection-payload-list/</td>
   </tr>
   
 </table>
