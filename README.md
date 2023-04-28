@@ -1,60 +1,19 @@
 # Online Tools (useful in daily life)
 <br>
 
-<table>
-  <tr>
-    <td>Change image weight / size</td><td>http://www.imageoptimizer.net/Pages/Home.aspx</td>
-  </tr>
-  
-  <tr>
-    <td>.apk Java Decompiler for Reverse Engeenering</td>
-    <td>http://www.javadecompilers.com/</td>
-  </tr>
-    
-  <tr>
-    <td>HTML Color Picker</td>
-    <td>https://www.w3schools.com/colors/colors_picker.asp</td>
-  </tr>
-  
-  <tr>
-    <td>Online Rust compiler</td>
-    <td>https://www.tutorialspoint.com/compile_rust_online.php</td>
-  </tr>
-    
-  <tr>
-    <td>Merge .pdf</td>
-    <td>https://www.ilovepdf.com/merge_pdf</td>
-  </tr>
-    
-  <tr>
-    <td>Split .pdf</td>
-    <td>https://www.ilovepdf.com/split_pdf</td>
-  </tr>
-  
-  <tr>
-    <td>C++ Shell</td>
-    <td>https://cpp.sh/</td>
-  </tr>
-  
-  <tr>
-    <td>Email Signature generator</td>
-    <td>https://www.hubspot.com/email-signature-generator</td>
-  </tr>
-  
-  <tr>
-    <td>Mic test</td>
-    <td>https://app.audiotestkitchen.com/sessions/default/search</td>
-  </tr>
-  
-  <tr>
-    <td>Polish Economics information</td>
-    <td>https://stooq.pl/</td>
-  </tr>
-    
-  <tr>
-    <td>SQL Injection Payload</td>
-    <td>https://github.com/payloadbox/sql-injection-payload-list/</td>
-  </tr>
-  
-</table>
+| Tool| link |
+| --- | --- |
+| Change image weight / size | http://www.imageoptimizer.net/Pages/Home.aspx |
+| .apk Java Decompiler for Reverse Engeenering | http://www.javadecompilers.com/ |
+| HTML Color Picker | https://www.w3schools.com/colors/colors_picker.asp |
+| Online Rust compiler | https://www.tutorialspoint.com/compile_rust_online.php |
+| Merge .pdf | https://www.ilovepdf.com/merge_pdf |
+| Split .pdf | https://www.ilovepdf.com/split_pdf |
+| C++ Shell | https://cpp.sh/ |
+| Email Signature generator | https://www.hubspot.com/email-signature-generator |
+| Mic test | https://app.audiotestkitchen.com/sessions/default/search |
+| Polish Economics information | https://stooq.pl/ |
+| SQL Injection Payload | https://github.com/payloadbox/sql-injection-payload-list/ |
+| Github README.md formatting | https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables|
+
 
