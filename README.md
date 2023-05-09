@@ -62,6 +62,7 @@
 | Merge .pdf | https://www.ilovepdf.com/merge_pdf |
 | Split .pdf | https://www.ilovepdf.com/split_pdf |
 | Change image weight / size | http://www.imageoptimizer.net/Pages/Home.aspx |
+| QR code generator | https://www.the-qrcode-generator.com/ |
 
 <br>
 
