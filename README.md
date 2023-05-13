@@ -13,6 +13,7 @@
 ## Hacking
 | Tool| link |
 | --- | - |
+| See pdf metadata | https://products.aspose.app/pdf/pl/metadata |
 | SQL Injection Payload | https://github.com/payloadbox/sql-injection-payload-list/ |
 
 <br>
