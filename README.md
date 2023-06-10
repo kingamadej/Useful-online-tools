@@ -1,5 +1,5 @@
 # Online Tools & Sites - useful in a daily life
-This repository, 'Useful-online-tools', is a collection of links to various online tools and websites that are useful in day-to-day life. The resources are organized into different categories including Math, Hacking, Tools for Developers, Online Compilers, Language, Business, Documents & Images, Sound Engineering, and Github. Each category provides links to specific tools, such as Wolfree Alpha for math problems, HTML Color Picker for developers, and a Mic test for sound engineering. The repository serves as a handy reference for individuals who require a diverse set of online tools in different areas of work and study
+This repository is a collection of links to various online tools and websites that are useful in day-to-day life. The resources are organized into different categories including Math, Hacking, Tools for Developers, Online Compilers, Language, Business, Documents & Images, Sound Engineering, and Github. Each category provides links to specific tools, such as Wolfree Alpha for math problems, HTML Color Picker for developers, and a Mic test for sound engineering. The repository serves as a handy reference for individuals who require a diverse set of online tools in different areas of work and study
 
 ## Math
 | Tool| link |
