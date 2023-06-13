@@ -8,6 +8,7 @@ This repository is a collection of links to various online tools and websites th
 | SQL Injection Payload | https://github.com/payloadbox/sql-injection-payload-list/ |
 | Global knowledge base of adversary tactics based on real-world observations.| https://attack.mitre.org/ |
 | Kali Linux Blog | https://www.kali.org/blog/ |
+| Create bootable USB drives | https://rufus.ie/en/ |
 
 
 <br>
