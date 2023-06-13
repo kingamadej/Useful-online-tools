@@ -7,3 +7,11 @@ Here I would like to express my appreciation to the authors of these useful mate
 | --- | - |
 | Kali Linux Explained | https://www.youtube.com/watch?v=jHlpKLhUOL4 |
 
+<br>
+
+## Cybersecurity
+| Tutorial| link |
+| --- | - |
+| Turn your old PC into dedicated server for web hosting at home | https://www.youtube.com/watch?v=jHlpKLhUOL4 |
+
+
