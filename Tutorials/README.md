@@ -17,6 +17,6 @@ Here I would like to express my appreciation to the authors of these useful mate
 ## Quantum Physics
 | Tutorial| link |
 | --- | - |
-| 1h-59min-20s prof. Andrzej Dragan speaks about Quantum Computers combined with AI (in polish) | https://youtu.be/xpYw22NaMUc?t=7160 |
+| How does a Quantum Computer work? | https://youtu.be/g_IaVepNDT4 |
 
 
