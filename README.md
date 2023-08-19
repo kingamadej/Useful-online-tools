@@ -68,6 +68,7 @@ This repository is a collection of links to various online tools and websites th
 | Split .pdf | https://www.ilovepdf.com/split_pdf |
 | Change image weight / size | http://www.imageoptimizer.net/Pages/Home.aspx |
 | QR code generator | https://www.the-qrcode-generator.com/ |
+| HEIC to PNG | https://heic2png.com/ |
 
 <br>
 
